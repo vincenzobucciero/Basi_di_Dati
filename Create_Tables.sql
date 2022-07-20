@@ -188,3 +188,5 @@ create table FATTURA (
     constraint FK_FATTURA foreign key (cod_ordine_rif) references ORDINE_RIFORNIMENTO(cod_ordine_rif)
 );
 
+
+--PROVA
